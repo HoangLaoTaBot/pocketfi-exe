@@ -9,7 +9,5 @@
     "IS_SLEEP": 3600,
     "BOT_TOKEN": "",
     "BOT_CHANNEL_ID": "",
-    "BOT_NAME_GAME": "Pocket Fi",
-    "ACCOUNT": "account.json",
-    "QUERY_ID": "query_id.json"
+    "BOT_NAME_GAME": "Pocket Fi"
 }
